@@ -13,9 +13,13 @@ pwd stands for "print the working directory". Commands mostly read and write fil
 **2. ls**
 
 ls prints the names of the files and directories in the current directory. We can make its output more comprehensible by using the -F option which tells ls to classify the output by adding a marker to file and directory names to indicate what they are:
+
 -a trailing / indicates that this is a directory
+
 -@ indicates a link
+
 -indicates an executable
+
 Depending on your shell’s default settings, the shell might also use colors to indicate whether each entry is a file or directory.
 ![image](https://user-images.githubusercontent.com/52249880/150623437-5a9e5e18-8e91-41f5-af92-64b935c4c6fd.png)
 **
