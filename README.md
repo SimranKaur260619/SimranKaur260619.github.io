@@ -73,11 +73,13 @@ Another way to create a text file is using *touch* command.To inspect the direct
 ## Moving Files and Directories
 
 **7. mv**
+
 Let's change the name of *names.txt* file to *carnivoros.txt* using *mv* command. The *mv* referes to as move, i.e. moving the *names.txt* to *carnivoros.txt* which has same effect as renaming the file.
 
 ![renaming a file](https://user-images.githubusercontent.com/52249880/150630715-7f832a84-a792-4a53-aec1-d5310eeef8ac.png)
 
 **8. /raw**
+
 To move the file from one directory to another, we use */raw* command.
 
 ![image](https://user-images.githubusercontent.com/52249880/150630978-6b2b922d-8c69-4891-8d5a-95e1ccbd7de4.png)
