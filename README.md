@@ -39,6 +39,7 @@ We can also use ls command to list the contents of other directory. Let’s take
 **3. cd**
 
 *cd* refers to as 'change directory'. This command helps to change locations followed by a directory name.
+
 ![changing directory to Desktop](https://user-images.githubusercontent.com/52249880/150629928-8cfc9e8a-489b-4958-b144-a8e90bb87a2d.png)
 
 ## Creating a Directory
